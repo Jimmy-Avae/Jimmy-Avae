@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Angular, Springboot**
 
-- 📫 How to reach me **jimmy.avae.pro@gmail.com**
+- 📫 How to reach me **jimmy.avae@opt.nc**, **jimmy.avae.pro@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 
